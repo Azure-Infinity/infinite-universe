@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
+      'plugin-infinite-universe': {
         cssPath: 'styles/infinite.css',
         darkMode: false
       }
