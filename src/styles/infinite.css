@@ -1,9 +1,9 @@
 a {
-   color:#818252;
+   color:#60fe6f;
 }
 
 a:hover {
-  color:#818252;
+  color:#60fe6f;
 }
 
 .absolute.pin-t.pin-l.h-40.w-40 {
@@ -11,15 +11,15 @@ a:hover {
 }
 
 .AppSidemenu__logo {
-   background:rgba(129, 130, 82, .30);
+   background:#101010;
 }
 
 .WalletGrid__wallet__name {
-   color:#818252;
+   color:#60fe6f;
 }
 
 .MenuTab__nav__item {
-	color:#818252;
+	color:#60fe6f;
 }
 
 .MenuOptions {
@@ -31,7 +31,7 @@ a:hover {
 }
 
 .bg-theme-settings-sub {
-	background:#818252;
+	background:#60fe6f;
 }
 
 .ButtonReload {
@@ -43,7 +43,7 @@ a:hover {
 }
 
 .ButtonSwitch__circle {
-	background:#818252;
+	background:#60fe6f;
 }
 
 .theme-plugin-infinite-universe {
@@ -51,13 +51,13 @@ a:hover {
   --theme-page-text: #969696;
   --theme-page-text-light: #969696;
   --theme-page-instructions-text: #3b4559;
-  --theme-page-instructions-background: rgba(200,200,200,0.4);
+  --theme-page-instructions-background: rgba(24, 24, 24, .90);
   --theme-modal: #101010;
 
-  --theme-intro-gradient-1: rgba(255,255,255,0);
-  --theme-intro-gradient-2: rgba(255,255,255,0.95);
+  --theme-intro-gradient-1: rgba(24, 24, 24, .90);
+  --theme-intro-gradient-2: rgba(24, 24, 24, .90);
 
-  --theme-header-text: #818252;
+  --theme-header-text: #60fe6f;
   --theme-caption-text: #000;
   --theme-caption-read: #8795a1;
   --theme-announcements-gradient-1: rgba(255,255,255,0);
@@ -66,7 +66,7 @@ a:hover {
   --theme-line-separator: #191919;
   --theme-wallet-overview-border: #191919;
 
-  --theme-table-row-hover: rgba(255, 255, 255, .10);
+  --theme-table-row-hover: rgba(24, 24, 24, .10);
   --theme-transaction-sent: #191919;
   --theme-transaction-sent-arrow: #fe2f33;
   --theme-transaction-received: #191919;
@@ -86,46 +86,46 @@ a:hover {
   --theme-wallet-sign-verify-message-text: #c5cfde;
   --theme-wallet-grid-shadow: 0 5px 30px rgba(124,138,192,0.22);
 
-  --theme-feature: rgba(0, 0, 0, .4);
-  --theme-feature-item-text: #818252;
-  --theme-feature-item-hover: #818252;
+  --theme-feature: #101010;
+  --theme-feature-item-text: #60fe6f;
+  --theme-feature-item-hover: #181818;
   --theme-feature-item-alternative: rgba(0, 0, 0, .30);
-  --theme-feature-item-alternative-text: #818252;
-  --theme-feature-item-hover-text: #818252;
+  --theme-feature-item-alternative-text: #60fe6f;
+  --theme-feature-item-hover-text: #60fe6f;
   --theme-feature-item-selected: rgba(0, 0, 0, .30);
   --theme-feature-item-selected-text: #e5e5e5;
-  --theme-feature-item-indicator: #818252;
+  --theme-feature-item-indicator: #60fe6f;
 
   --theme-secondary-feature: #f7f9fb;
 
   --theme-button-special-choice: #1e1e1e;
 
-  --theme-heading-background: rgba(255,255,255,.0);
-  --theme-heading-text: #818252;
+  --theme-heading-background: rgba(24, 24, 24, .90);
+  --theme-heading-text: #60fe6f;
 
-  --theme-chart-background: rgba(0, 0, 0, .0);
+  --theme-chart-background: rgba(24, 24, 24, .90);
   --theme-chart-price: #969696;
 
   --theme-button: #191919;
   --theme-button-active: rgba(0, 0, 0, .30);
   --theme-button-active-hover: red;
-  --theme-button-text: #818252;
+  --theme-button-text: #60fe6f;
   --theme-button-light: #f1f5f8;
   --theme-button-light-text: #8795a1;
   --theme-button-inner-box: #161616;
   --theme-action-button: #191919;
-  --theme-action-button-text: #818252;
+  --theme-action-button-text: #60fe6f;
   --theme-action-button-text-hover: #789fba;
   --theme-option-button: #3d456d;
   --theme-option-button-hover: #cc5e60;
-  --theme-option-button-text: #818252;
+  --theme-option-button-text: #60fe6f;
   --theme-switch-button: #191919;
   --theme-option-heading-button: rgba(0, 0, 0, .30);
   --theme-option-heading-button-hover: rgba(255, 255, 255, .10);
-  --theme-option-heading-button-text: #818252;
+  --theme-option-heading-button-text: #60fe6f;
   --theme-input-toggle-choice: #f1f5f8;
   --theme-input-toggle-choice-text: #606f7b;
-  --theme-input-field-border: #818252;
+  --theme-input-field-border: #60fe6f;
   --theme-modal-footer-button: #e7d28e;
   --theme-modal-footer-button-text: #b3a36f;
 
@@ -136,17 +136,17 @@ a:hover {
   --theme-settings-hover: #f0f1f8;
   --theme-settings-sub: #2d3747; /* NOTE: not used on light theme */
   --theme-settings-button: #2d3747; /* NOTE: not used on light theme */
-  --theme-settings-heading: #818252;
-  --theme-settings-border: #818252;
-  --theme-settings-text: #818252;
-  --theme-settings-text-hover: #818252;
+  --theme-settings-heading: #60fe6f;
+  --theme-settings-border: #60fe6f;
+  --theme-settings-text: #60fe6f;
+  --theme-settings-text-hover: #60fe6f;
   --theme-settings-switch: #d5d5d5;
-  --theme-settings-control-title: #818252;
+  --theme-settings-control-title: #60fe6f;
 
   --theme-voting-banner-background: #101010;
-  --theme-voting-banner-text: #818252;
+  --theme-voting-banner-text: #60fe6f;
   --theme-voting-banner-button: #181818;
-  --theme-voting-banner-button-hover: #818252;
+  --theme-voting-banner-button-hover: #60fe6f;
   --theme-voting-banner-button-text: #90a9c6;
   --theme-voting-banner-button-text-hover: #6785a9;
 
